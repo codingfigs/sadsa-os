@@ -3,8 +3,8 @@
 
 **Version:** V-02.25.0.0.1  
 **Author:** Dr. Kamakshaiah Musunuru  
-**Contact:** dr.m.kamakshaiah@gmail.com  
-**GitHub:** [Dr. Kamakshaiah Musunuru](https://github.com/Kamakshaiah)  
+**Contact:** contact@codingfigs.com  
+**GitHub:** [SADSA-OS](https://github.com/codingfigs/sadsa-os)  
 
 ---
 
@@ -121,7 +121,7 @@ Built using **Python** for the GUI, SADSA provides a menu-driven interface for h
     ```bash
     python sadsa.py
     ```
-
+5. Downoload Windows EXE file from https://drive.google.com/file/d/1l1mySjtGB6x7Q9CitPrU3xzhTj8ahRhe/view?usp=sharing
 ---
 
 ## � Python Console
@@ -263,4 +263,4 @@ SADSA is developed by **Amchik Solutions, India** as a comprehensive, intuitive,
 ## 💬 Contact
 
 For feedback, collaboration, or support, please reach out:  
-**Email:** dr.m.kamakshaiah@gmail.com
+**Email:** contact@codingfigs.com
