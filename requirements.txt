@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+fpdf
+python-docx
+statsmodels
+scikit-learn
+factor-analyzer
+semopy
+networkx
