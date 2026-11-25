@@ -4,7 +4,7 @@
 **Author:** Dr. Kamakshaiah Musunuru  
 **Firm:** Amchik Solutions, India  
 **Contact:** dr.m.kamakshaiah@gmail.com  
-**Profile:** https://github.com/Kamakshaiah
+**Profile:** https://github.com/codingfigs
 
 SADSA is a desktop application for data science and analytics built around a single Python file. It provides editable CSV workflows, descriptive and inferential statistics, factor and cluster analysis, time-series analysis, machine learning, transactional analytics, advanced missing-data treatment, flexible plotting, and a persistent Python console with `app` and `df` objects.
 
