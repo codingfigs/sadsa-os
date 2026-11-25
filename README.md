@@ -23,15 +23,7 @@ SADSA is a desktop application for data science and analytics built around a sin
 ## Repository contents
 
 - `pyfda.py` - complete application source.
-- `pyfda.spec` - PyInstaller specification for the portable Windows build.
-- `requirements.txt` - Python dependencies.
-- `Data/sample.csv` - sample CSV data.
-- `icon.ico` - application icon.
-- `README.md` - this guide, generated from the in-app documentation.
-- `dist/SADSA_v2.exe` - portable Windows executable.
-- `installer_output/SADSA_v2_Setup.exe` - Windows setup executable.
-- `install_linux.sh` - Linux setup and launcher.
-- `SADSA_v2_setup.iss` - Inno Setup script used to build the Windows installer.
+- `requirements.txt` - Python packages required to run `pyfda.py`.
 
 ## Installation
 
@@ -39,7 +31,7 @@ SADSA is a desktop application for data science and analytics built around a sin
 
 1. Extract `SADSA_v2_portable.zip` or copy `dist/SADSA_v2.exe` together with `license.json`, `license.txt`, and the `Data` folder.
 2. Double-click `SADSA_v2.exe`.
-3. Enter a valid license key when prompted, or continue in trial mode.
+3. Enter a valid license key (contact dr.m.kamakshaiah@gmail.com for free license key for full version) when prompted, or continue in trial mode (30 day full version).
 
 ### Windows setup
 
