@@ -13,6 +13,7 @@ This `main` branch contains the source and support files needed to run SADSA on 
 ## Contents
 
 - [Repository files](#repository-files)
+- [Windows executables](#windows-executables)
 - [Linux installation](#linux-installation)
 - [Running from source](#running-from-source)
 - [Quick start](#quick-start)
@@ -31,6 +32,16 @@ This `main` branch contains the source and support files needed to run SADSA on 
 | `requirements.txt` | Pinned Python dependencies. |
 | `icon.ico` | Application icon used by the Linux desktop entry. |
 | `README.md` | Repository guide. |
+
+## Windows executables
+
+Windows builds for Version 2.1 are available on the [v2.1 release page](https://github.com/codingfigs/sadsa-os/releases/tag/v2.1):
+
+- `SADSA_v2.1.exe` - portable Windows executable.
+- `SADSA_v2.1_portable.zip` - portable bundle with the executable, README, license files, and sample data.
+- `SADSA_v2.1_Setup.exe` - Windows setup installer with Start menu and optional desktop shortcuts.
+
+They are published as release assets and are not tracked in this Linux-focused `main` branch.
 
 ## Linux installation
 
